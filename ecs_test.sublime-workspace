@@ -1,0 +1,1474 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Trans",
+				"Transforms2D"
+			],
+			[
+				"Compo",
+				"ComponentType"
+			],
+			[
+				"enti",
+				"entityManager"
+			],
+			[
+				"Transform",
+				"TransformMatrix"
+			],
+			[
+				"Position",
+				"Position2D"
+			],
+			[
+				"Tran",
+				"Transforms2D"
+			],
+			[
+				"Math",
+				"Mathematics"
+			],
+			[
+				"fire",
+				"fireCooldown"
+			],
+			[
+				"Ini",
+				"InitializeWithScene"
+			],
+			[
+				"Rn",
+				"RuntimeInitializeLoadType"
+			],
+			[
+				"Run",
+				"RuntimeInitializeOnLoadMethod"
+			],
+			[
+				"RuntimeInitia",
+				"RuntimeInitializeOnLoadMethod"
+			],
+			[
+				"tar",
+				"targetVelocity"
+			],
+			[
+				"walkin",
+				"_walkingRigidbody"
+			],
+			[
+				"_active",
+				"_activeRigidbody"
+			],
+			[
+				"GetCom",
+				"GetComponent"
+			],
+			[
+				"knock",
+				"knockbackForce"
+			],
+			[
+				"game",
+				"gameObject"
+			],
+			[
+				"_input",
+				"_inputState.consumed"
+			],
+			[
+				"inter",
+				"interactable"
+			],
+			[
+				"Interact",
+				"Interactable"
+			],
+			[
+				"GetCo",
+				"GetComponent"
+			],
+			[
+				"Selection",
+				"SelectionMenuEventHandler"
+			],
+			[
+				"cont",
+				"controllerID"
+			],
+			[
+				"menu",
+				"menuAssetID"
+			],
+			[
+				"ass",
+				"assetID"
+			],
+			[
+				"Instant",
+				"InstantiateGuiElement"
+			],
+			[
+				"Quat",
+				"Quaternion.identity"
+			],
+			[
+				"_tower",
+				"_towerBuildMenu"
+			],
+			[
+				"Tr",
+				"TryPickupItem"
+			],
+			[
+				"Sort",
+				"SortNearestFirst"
+			],
+			[
+				"dis",
+				"distances"
+			],
+			[
+				"neare",
+				"nearestObject"
+			],
+			[
+				"nearest",
+				"nearestDistance"
+			],
+			[
+				"_",
+				"_towerPlacementMarker"
+			],
+			[
+				"Tower",
+				"TowerPlacementMarker"
+			],
+			[
+				"Get",
+				"GetSelectedTowerDetails"
+			],
+			[
+				"_inpu",
+				"_inputState"
+			],
+			[
+				"Selectio",
+				"AcceptSelection"
+			],
+			[
+				"_to",
+				"_towerBuildMenu"
+			],
+			[
+				"shotS",
+				"shotStartPos"
+			],
+			[
+				"trans",
+				"transform"
+			],
+			[
+				"Vec",
+				"Vector3"
+			],
+			[
+				"current",
+				"currentAngle"
+			],
+			[
+				"yAxis",
+				"yAxisPivot"
+			],
+			[
+				"Target",
+				"TargetInfo"
+			],
+			[
+				"x",
+				"xAngleMin"
+			],
+			[
+				"angle",
+				"angleThreshold"
+			],
+			[
+				"an",
+				"angleThreshold"
+			],
+			[
+				"target",
+				"targetPosition"
+			],
+			[
+				"_t",
+				"_target"
+			],
+			[
+				"local",
+				"localEulerAngles"
+			],
+			[
+				"loca",
+				"localEulerAngles"
+			],
+			[
+				"Quater",
+				"Quaternion.LookRotation"
+			],
+			[
+				"_a",
+				"_target"
+			],
+			[
+				"rela",
+				"relativePath"
+			],
+			[
+				"InitFrom",
+				"InitFromFile"
+			],
+			[
+				"GetCompo",
+				"GetComponentInChildren"
+			],
+			[
+				"num",
+				"numBundles"
+			],
+			[
+				"_sele",
+				"_selectedVariantIndex"
+			],
+			[
+				"player",
+				"playerAssetID"
+			],
+			[
+				"Add",
+				"Add"
+			],
+			[
+				"load",
+				"loaded"
+			],
+			[
+				"LoadFrom",
+				"LoadFromObject"
+			],
+			[
+				"sta",
+				"StageRoot"
+			],
+			[
+				"enem",
+				"_enemyRoot"
+			],
+			[
+				"Serial",
+				"SerializedProperty"
+			],
+			[
+				"inten",
+				"indentedPosition"
+			],
+			[
+				"indented",
+				"indentedPosition"
+			],
+			[
+				"GUIC",
+				"GUIContent.none"
+			],
+			[
+				"Prop",
+				"PropertyField"
+			],
+			[
+				"Ge",
+				"Generic"
+			],
+			[
+				"bundle",
+				"bundleID"
+			],
+			[
+				"stage",
+				"stageData"
+			],
+			[
+				"_stage",
+				"_stageRoot"
+			],
+			[
+				"Seriali",
+				"SerializableAsset"
+			],
+			[
+				"Seria",
+				"SerializableAsset"
+			],
+			[
+				"Ass",
+				"AssetRoot"
+			],
+			[
+				"for",
+				"foreach"
+			],
+			[
+				"Ser",
+				"SerializableStageData"
+			],
+			[
+				"Serializ",
+				"SerializableStageData"
+			],
+			[
+				"Load",
+				"LoadFromObject"
+			],
+			[
+				"stag",
+				"stageRoot"
+			],
+			[
+				"Stage",
+				"StageDetails"
+			],
+			[
+				"bundleIn",
+				"bundleInfoPath"
+			],
+			[
+				"file",
+				"GetFileNameWithoutExtension"
+			],
+			[
+				"Bundle",
+				"BundleAssets"
+			],
+			[
+				"bund",
+				"bundleInfoPath"
+			],
+			[
+				"LoadAs",
+				"LoadAssetBundleDetails"
+			],
+			[
+				"Save",
+				"SaveAssetBundleDetails"
+			],
+			[
+				"Asset",
+				"AssetDetails"
+			],
+			[
+				"EditorGui",
+				"EditorGUILayout"
+			],
+			[
+				"asset",
+				"assetNames"
+			],
+			[
+				"object",
+				"objectHandle"
+			],
+			[
+				"obje",
+				"ObjectHandle"
+			],
+			[
+				"sel",
+				"selectableNode"
+			],
+			[
+				"StageDesigner",
+				"StageDesignerSelectable"
+			],
+			[
+				"Objec",
+				"ObjectHandle"
+			],
+			[
+				"StageDes",
+				"StageDesignerSelectable"
+			],
+			[
+				"obj",
+				"objectEditMode"
+			],
+			[
+				"barre",
+				"barrelAngleMax"
+			],
+			[
+				"barr",
+				"barrelAngleMin"
+			],
+			[
+				"ba",
+				"barrelAngle"
+			],
+			[
+				"top",
+				"topRotationSpeed"
+			],
+			[
+				"barrel",
+				"barrel.transform.Rotate"
+			],
+			[
+				"_pathEd",
+				"_pathEditorIndex"
+			],
+			[
+				"_path",
+				"_pathEditors"
+			],
+			[
+				"_pa",
+				"_pathEditorIndex"
+			],
+			[
+				"StageD",
+				"StageDesignerPathEditor"
+			],
+			[
+				"PathEd",
+				"StageDesignerPathEditor"
+			],
+			[
+				"_pat",
+				"_pathEditors"
+			],
+			[
+				"pathR",
+				"_pathRoot"
+			],
+			[
+				"rotat",
+				"rotationY"
+			],
+			[
+				"wave",
+				"waveManager"
+			],
+			[
+				"Init",
+				"InitWaves"
+			],
+			[
+				"Finis",
+				"FinishedSpawning"
+			],
+			[
+				"Wave",
+				"WaveManager"
+			],
+			[
+				"AddPo",
+				"AddPointHandle"
+			],
+			[
+				"sele",
+				"selectedPointMaterial"
+			],
+			[
+				"Update",
+				"UpdateHandleMaterials"
+			],
+			[
+				"pointM",
+				"pointMaterial"
+			],
+			[
+				"Mesh",
+				"MeshRenderer"
+			],
+			[
+				"prev",
+				"prevIndex"
+			],
+			[
+				"_se",
+				"_selectedHandleIndex"
+			],
+			[
+				"_s",
+				"_selectedHandleIndex"
+			],
+			[
+				"_grab",
+				"_grabButtonID"
+			],
+			[
+				"_gr",
+				"_grabButtonID"
+			],
+			[
+				"inu",
+				"inputDir"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/E/Repos/SurvivalShooterHybridECS-master/SurvivalShooterHybridECS/Assets/HybridECS/Scripts/Systems/PlayerShootingSystem.cs",
+			"settings":
+			{
+				"buffer_size": 2993,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Systems for a simple danmaku style shooting game\n\nShotMovementSystem\nShotCollisionSystem\n\nPlayerInputSystem\nPlayerMovementSystem\nPlayerAttackSystem\nPlayerHealthSystem\n\nEnemyMovementSystem\nEnemyAttackSystem\nEnemyHealthSystem",
+			"settings":
+			{
+				"buffer_size": 223,
+				"line_ending": "Windows",
+				"name": "Systems for a simple danmaku style shooting game"
+			}
+		},
+		{
+			"file": "Assets/Scripts/Components.cs",
+			"settings":
+			{
+				"buffer_size": 786,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "Components.cs"
+			}
+		},
+		{
+			"file": "Assets/Scripts/PlayerMovementSystem.cs",
+			"settings":
+			{
+				"buffer_size": 1128,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "PlayerMovementSystem.cs"
+			}
+		},
+		{
+			"file": "Assets/Scripts/PlayerInputSystem.cs",
+			"settings":
+			{
+				"buffer_size": 1411,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "PlayerInputSystem.cs"
+			}
+		},
+		{
+			"file": "Assets/Scripts/DanmakuMain.cs",
+			"settings":
+			{
+				"buffer_size": 1983,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "DanmakuMain.cs"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 158.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/Repos/unity_2018_ecs_test/Assets",
+		"/E/Repos/unity_2018_ecs_test/Assets/Data",
+		"/E/Repos/unity_2018_ecs_test"
+	],
+	"file_history":
+	[
+		"/E/Repos/SurvivalShooterHybridECS-master/SurvivalShooterHybridECS/Assets/HybridECS/Scripts/Components/Damaged.cs",
+		"/E/Repos/SurvivalShooterHybridECS-master/SurvivalShooterHybridECS/Assets/HybridECS/Scripts/EnemyAttacker.cs",
+		"/E/Repos/SurvivalShooterHybridECS-master/SurvivalShooterHybridECS/Assets/HybridECS/Scripts/Components/PlayerInput.cs",
+		"/E/Repos/SurvivalShooterHybridECS-master/SurvivalShooterHybridECS/Assets/HybridECS/Scripts/Components/PlayerGun.cs",
+		"/E/Repos/EntityComponentSystemSamples-master/TwoStickShooter/Pure/Assets/GameCode/ComponentTypes.cs",
+		"/E/Repos/SurvivalShooterHybridECS-master/SurvivalShooterHybridECS/Assets/HybridECS/Scripts/Components/Health.cs",
+		"/E/Repos/SurvivalShooterHybridECS-master/SurvivalShooterHybridECS/Assets/HybridECS/Scripts/Components/Enemy.cs",
+		"/E/Repos/SurvivalShooterHybridECS-master/SurvivalShooterHybridECS/Assets/HybridECS/Scripts/Components/Player.cs",
+		"/E/Repos/SurvivalShooterHybridECS-master/SurvivalShooterHybridECS/Assets/HybridECS/Scripts/Components/Dead.cs",
+		"/E/Repos/SurvivalShooterHybridECS-master/SurvivalShooterHybridECS/Assets/HybridECS/Scripts/Systems/PlayerHealthSystem.cs",
+		"/E/Repos/SurvivalShooterHybridECS-master/SurvivalShooterHybridECS/Assets/HybridECS/Scripts/Systems/EnemyHealthSystem.cs",
+		"/E/Repos/SurvivalShooterHybridECS-master/SurvivalShooterHybridECS/Assets/HybridECS/Scripts/Systems/PlayerMovementSystem.cs",
+		"/E/Repos/SurvivalShooterHybridECS-master/SurvivalShooterHybridECS/Assets/HybridECS/Scripts/Systems/EnemyDeathSystem.cs",
+		"/E/Repos/SurvivalShooterHybridECS-master/SurvivalShooterHybridECS/Assets/HybridECS/Scripts/EnemySpawner.cs",
+		"/E/Repos/SurvivalShooterHybridECS-master/SurvivalShooterHybridECS/Assets/HybridECS/Scripts/SurvivalShooterSettings.cs",
+		"/E/Repos/SurvivalShooterHybridECS-master/SurvivalShooterHybridECS/Assets/HybridECS/Scripts/SurvivalShooterLauncher.cs",
+		"/E/Repos/EntityComponentSystemSamples-master/TwoStickShooter/Pure/Assets/GameCode/PlayerMoveSystem.cs",
+		"/E/Repos/EntityComponentSystemSamples-master/TwoStickShooter/Pure/Assets/GameCode/ShotDamageSystem.cs",
+		"/E/Repos/EntityComponentSystemSamples-master/TwoStickShooter/Pure/Assets/GameCode/TwoStickBootstrap.cs",
+		"/E/Repos/EntityComponentSystemSamples-master/TwoStickShooter/Pure/Assets/GameCode/PlayerInputSystem.cs",
+		"/E/Repos/job-system-cookbook-master/Assets/Scripts/CheckBoundsParallelFor.cs",
+		"/E/Repos/EntityComponentSystemSamples-master/TwoStickShooter/Pure/Assets/GameCode/TwoStickSettings.cs",
+		"/E/Repos/td/td.sublime-project",
+		"/E/Repos/td/Assets/Scripts/Game/Player/Player.cs",
+		"/E/Repos/td/collision_layers.txt",
+		"/C/Users/Andy/Desktop/unity2018.1b12_installer/install.bat",
+		"/C/Users/Andy/Desktop/New Text Document.txt",
+		"/E/Repos/td_testzone/Assets/Scripts/PlayerController.cs",
+		"/C/Users/Andy/AppData/Local/Temp/$PID.cs",
+		"/E/Repos/td/Assets/Scripts/System/DataTypes/Stats/StatGroup.cs",
+		"/E/Repos/td/Assets/Scripts/System/DataTypes/Stats/DamageStats.cs",
+		"/E/Repos/td/Assets/Scripts/System/DataTypes/Stats/DamageEffect.cs",
+		"/E/Repos/td/Assets/Scripts/System/DataTypes/Stats/HealthStats.cs",
+		"/E/Repos/td/Assets/Scripts/Game/Enemy/Enemy.cs",
+		"/E/Repos/td/Assets/Scripts/Game/Generic/Damage.cs",
+		"/D/Downloads/shiori/chat/chat32694837383.extra",
+		"/D/Downloads/shiori/chat/chat32694837383",
+		"/E/Repos/td/Assets/Scripts/Game/Item/ObjectHolder.cs",
+		"/E/Repos/td/Assets/Scripts/System/DataTypes/ItemDropCollection.cs",
+		"/E/Repos/td/Assets/Scripts/System/ApplicationInitialize.cs",
+		"/D/Downloads/TD - Stats - Sheet1.csv",
+		"/E/[GOOGLE DRIVE]/Work/Q-Games/2013_v1/proj/castle/Andy/canvas_tileworld_4/js/game/gamemanager.js",
+		"/E/[GOOGLE DRIVE]/Work/Q-Games/2013_v1/proj/castle/Andy/canvas_tileworld_4/js/game/tileworld.js",
+		"/E/[GOOGLE DRIVE]/Work/Q-Games/2013_v1/proj/castle/Andy/canvas_tileworld_4/js/game.js",
+		"/E/Repos/td/Assets/Scripts/Game/Player/PlayerInputState.cs",
+		"/C/Users/Andy/AppData/Local/Temp/7zOCD40A8E8/test.json",
+		"/E/Repos/td/Assets/Scripts/UI/GuiManager.cs",
+		"/E/Repos/td/Assets/Scripts/UI/ISelectionMenu.cs",
+		"/E/Repos/td/Assets/Scripts/UI/TowerInteractUI.cs",
+		"/E/Repos/td/Assets/Scripts/UI/TowerBuildUI.cs",
+		"/E/Repos/td/Assets/Scripts/Game/Generic/Interactable.cs",
+		"/E/Repos/td/Assets/Scripts/Game/Tower/TowerPlacementMarker.cs",
+		"/E/Repos/td/Assets/Scripts/System/AssetManager.cs",
+		"/E/Repos/td/Assets/Resources/AssetMap_default.json",
+		"/E/Repos/td/Assets/Scripts/UI/MainMenu.cs",
+		"/E/Repos/td/Assets/Scripts/UI/DebugUI.cs",
+		"/E/Repos/td/Assets/Scripts/Editor/AssetBundleManager/AssetBundleManager.cs",
+		"/E/Repos/td/Assets/Scripts/System/DataTypes/TowerDataCollection.cs",
+		"/E/Repos/td/Assets/Scripts/UI/Inspector.cs",
+		"/E/Repos/td/Assets/Scripts/UI/GuiElement.cs",
+		"/E/Repos/td/Assets/Scripts/Utility/Utility.cs",
+		"/E/Repos/td/Assets/Scripts/Game/Item/ItemHolder.cs",
+		"/E/Repos/td/Assets/Scripts/System/DataTypes/TowerData.cs",
+		"/E/Repos/td/Assets/Scripts/Utility/Singleton.cs",
+		"/E/Repos/td/Assets/Scripts/UI/TowerDetails.cs",
+		"/E/Repos/Unity_MenuTest/Assets/Player.cs",
+		"/E/Repos/td/Assets/Scripts/Game/Item/BombOrb.cs",
+		"/E/Repos/td/Assets/Scripts/Game/Tower/BombTower.cs",
+		"/E/Repos/td/Assets/Scripts/Game/Item/HoldableItem.cs",
+		"/E/Repos/td/Assets/Scripts/System/DataTypes/TransformRuntimeList.cs",
+		"/E/Repos/td/Assets/Scripts/System/DataTypes/RuntimeList.cs",
+		"/E/Repos/td/Assets/Scripts/Game/Generic/DisturbanceCamera.cs",
+		"/E/Repos/td/Assets/Scripts/Utility/TransformListUser.cs",
+		"/E/Repos/td/Assets/Scripts/Game/Generic/DisturbanceFader.cs",
+		"/E/Repos/td/Assets/Scripts/Utility/TransformList.cs",
+		"/E/Repos/td/Assets/Scripts/System/AssetManagerSettings.cs",
+		"/E/Repos/td/Assets/Scripts/Editor/AssetBundleManager/AssetBundleManagerWindow.cs",
+		"/E/Repos/td/Assets/Scripts/Game/Stage/StageGenerator.cs",
+		"/E/Repos/Unity_InteractiveFoliage/Assets/Shaders/BlendNormals.shader",
+		"/E/Repos/td/Assets/Scripts/Game/Stage/FoliageController.cs",
+		"/E/Repos/InteractableFoliageTest/Assets/FoliageBendMap.cs",
+		"/E/Repos/InteractableFoliageTest/Assets/RandomMover.cs",
+		"/E/Repos/td/Assets/Scripts/Editor/AssetBundleManager/BundleInfo.cs",
+		"/E/Repos/td/Assets/Scripts/Game/Generic/Explosion.cs",
+		"/E/Repos/td/Assets/Scripts/Game/Tower/Tower.cs",
+		"/E/Repos/td/Assets/Scripts/Game/Tower/DartTower.cs",
+		"/E/Repos/td/Assets/Scripts/Game/Tower/StaticTower.cs",
+		"/E/Repos/td/Assets/Scripts/Game/Generic/PathGuideMover.cs",
+		"/E/Repos/td/Assets/Scripts/Game/Tower/SimpleProjectile.cs",
+		"/E/Repos/td/Assets/Scripts/StageDesigner/StageData.cs",
+		"/E/Repos/td/Assets/Scripts/Game/Generic/Sensor.cs",
+		"/E/Repos/td/Assets/Scripts/Game/Tower/TowerTopRotator.cs",
+		"/E/Repos/td/Assets/StreamingAssets/StageData/test.json",
+		"/E/Repos/td/Assets/Data/Tower/Tower.prefab",
+		"/E/Repos/td/Assets/Scripts/Game/Stage/StageLoader.cs",
+		"/E/Repos/td/Assets/Scripts/Game/Player/PlayerStart.cs",
+		"/E/Repos/blender_vertex_color_master/vertex_color_master.py",
+		"/E/Repos/td/Assets/Scripts/Game/Generic/AssetRoot.cs",
+		"/E/Repos/td/Assets/Scripts/System/AssetMap.cs",
+		"/E/Repos/td/Assets/Scripts/Game/Stage/Stage.cs",
+		"/E/Repos/td/Assets/StageDataLoader.cs",
+		"/E/Repos/td/Assets/Scripts/System/Localization.cs",
+		"/E/Repos/td/Assets/Resources/LocalizationText.json",
+		"/E/Repos/td/Assets/Scripts/StageDesigner/SerializableStageData.cs",
+		"/E/Repos/td/Assets/Scripts/StageDesigner/StageDesigner.cs",
+		"/C/Users/Andy/AppData/LocalLow/AndrewPalmer/td/StageData/test.json",
+		"/E/Repos/td/Assets/Scripts/Game/Player/ThrowTargetter.cs",
+		"/E/Repos/td/Assets/Scripts/Game/Stage/WaveManager.cs",
+		"/E/Repos/td/Assets/Scripts/Editor/WavePropertyDrawer.cs",
+		"/E/Repos/td/Assets/Scripts/Game/Stage/Wave.cs",
+		"/E/Repos/td/Assets/Scripts/Game/Generic/TransformRoot.cs",
+		"/E/Repos/td/Assets/Scripts/Game/Generic/Path.cs",
+		"/E/Repos/td/Assets/Scripts/System/SerializableAsset.cs",
+		"/E/Repos/td/Assets/Scripts/StageDesigner/StageDataSO.cs",
+		"/E/Repos/td/.gitignore",
+		"/E/Repos/td/Assets/Scripts/_Test/Spawner.cs",
+		"/E/Repos/td/Assets/StreamingAssets/AssetBundles/enemy.manifest",
+		"/E/Repos/td/Assets/Scripts/System/AssetManager_old.cs",
+		"/E/Temp/GZM_Assets/Bundles/Android/CStandardAssets.json",
+		"/E/Repos/AssetManager/AssetManager/Assets/Scripts/Editor/AssetBundleManager.cs",
+		"/E/Repos/AssetManager/AssetManager/Assets/Scripts/LoadAssetTest.cs",
+		"/E/Repos/AssetManager/AssetManager/Assets/Scripts/Editor/AssetBundleManagerWindow.cs",
+		"/E/Repos/AssetManager/AssetManager/Assets/StreamingAssets/AssetBundles/theme_default.manifest",
+		"/E/Repos/AssetManager/AssetManager/Assets/StreamingAssets/AssetBundles/theme_default",
+		"/E/Repos/AssetManager/AssetManager/Assets/Data/Assets/rock_medium_1.prefab.meta",
+		"/E/Repos/AssetManager/AssetManager/Assets/Scripts/AssetInfo.cs",
+		"/E/Repos/td/Assets/Scripts/StageDesigner/StageDesignerObjectEditMode.cs",
+		"/E/Repos/td/Assets/Scripts/StageDesigner/StageDesignerEditMode.cs"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 105.0,
+		"where_history":
+		[
+			"*.cs",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"m_players",
+			"m_data",
+			"_inputdir",
+			"consumed",
+			"_towerBuildMenu",
+			"controllerID",
+			"Button",
+			"gameGuiRoot",
+			"sort",
+			"GetNearestTo",
+			"details",
+			"TowerDetails",
+			"_selectionAccepted",
+			"header",
+			"rotation",
+			"AssetManager",
+			"MaterialPropertyBlock",
+			"UpdateBundleMap",
+			"save",
+			"Debug.Log",
+			"Contains",
+			"Tower",
+			"_damageMultiplier",
+			"damageMultiplier",
+			"nextAttackTime",
+			"yRotationSpeed",
+			"_sensor",
+			"barrelAngleMax",
+			"barrelAngleMin",
+			"topRotationSpeed",
+			"barrel",
+			"top",
+			"LoadFromFile",
+			"Bundle",
+			"IsNullOrEmpty",
+			"string languageCode",
+			"  ",
+			"ViewportPointIsOnScreen",
+			"_waves",
+			"LoadFromFile",
+			"filename",
+			"stageRoot",
+			"InitEditModes",
+			"enemyRoot",
+			"StopAllCoroutines",
+			"levelFile",
+			"stageDa",
+			"stageData",
+			"Clear",
+			"stageData",
+			"_stageData",
+			"initialIndent",
+			"EditorGUI",
+			"EndProperty",
+			"SerializableAsset",
+			"bundleID",
+			"SerializableAsset",
+			"paths",
+			"placeholder_theme",
+			"destroy",
+			"stageRoot",
+			"private set; ",
+			"filePath",
+			"info",
+			"_stageData",
+			"SerializableStageData",
+			"bundleAssets",
+			"BundleAssets",
+			"bundleAssets",
+			"BundleAssets",
+			"AssetDetails",
+			"assetDetails",
+			"AssetDetails",
+			"hideIn",
+			"assetID",
+			"objectField",
+			"assetNames[i]",
+			"no",
+			"Serializable",
+			"NonSerializable",
+			"Serialized",
+			"go.transform",
+			"selectableNode",
+			"Destroy",
+			"editor",
+			"StageDesignerSelectable",
+			"StageDesignerObjectEditMode",
+			"Destroy",
+			"Mathf.Max",
+			"Max",
+			"Mathf.Clamp",
+			"_stageRoot",
+			",",
+			"\"",
+			",",
+			"Debug.Log(",
+			"pathRoot",
+			".material",
+			"g_SCREEN.width =",
+			"g_SCREEN",
+			"width",
+			"// ",
+			"new",
+			"(refresh) ? mesh.vertices : ",
+			"(refresh) ? ",
+			"_splineSegmentRoot",
+			"qi",
+			"offset",
+			";",
+			"Create",
+			"boundaries",
+			"GetType",
+			"HermiteInterpolate",
+			"GetInterpolateInput",
+			"interpolateInput",
+			"GetInterpolateInput",
+			"ref",
+			"_points = new",
+			"GetInterpolateInput",
+			"out",
+			"GetInterpolateInput",
+			"canReceive",
+			"Target",
+			"target",
+			"protected ",
+			"influenceRadius",
+			"IsHeld",
+			"modelSpaceRoot"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"guiRoot",
+			"TowerDart",
+			"_damageMultiplier",
+			"_nextAttackTime",
+			"sensor",
+			"maxPitchAngle",
+			"minPitchAngle",
+			"yRotationSpeed",
+			"xAxisPivot",
+			"yAxisPivot",
+			"    ",
+			"stageData",
+			"bundleInfo",
+			"BundleInfo",
+			",\n",
+			"_segmentRoot",
+			"rigidbodyRoot",
+			"grabButtonHoldDuration",
+			"_grabButtonPressedTime",
+			"_grabButtonThreshold",
+			"_grabButtonId",
+			"_target",
+			"_thrownButtonId",
+			"_moveXId",
+			"_moveZId",
+			"_throwButtonThreshold",
+			"_nextSpawnTime",
+			"   ",
+			"  "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/E/Repos/SurvivalShooterHybridECS-master/SurvivalShooterHybridECS/Assets/HybridECS/Scripts/Systems/PlayerShootingSystem.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2993,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								473,
+								473
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C#/C#.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 223,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								223,
+								223
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Systems for a simple danmaku style shooting game",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Assets/Scripts/Components.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 786,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								66,
+								66
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Components.cs",
+							"syntax": "Packages/C#/C#.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Assets/Scripts/PlayerMovementSystem.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1128,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								842,
+								842
+							]
+						],
+						"settings":
+						{
+							"auto_name": "PlayerMovementSystem.cs",
+							"syntax": "Packages/C#/C#.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "Assets/Scripts/PlayerInputSystem.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1411,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								323,
+								323
+							]
+						],
+						"settings":
+						{
+							"auto_name": "PlayerInputSystem.cs",
+							"syntax": "Packages/C#/C#.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "Assets/Scripts/DanmakuMain.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1983,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1359,
+								1359
+							]
+						],
+						"settings":
+						{
+							"auto_name": "DanmakuMain.cs",
+							"history_list_is_closing": true,
+							"syntax": "Packages/C#/C#.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.37782123297,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ecs_test.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"player.cs",
+				"Assets\\Scripts\\Game\\Player\\Player.cs"
+			],
+			[
+				"dama",
+				"Assets\\Scripts\\Game\\Generic\\Damage.cs"
+			],
+			[
+				"enemy.cs",
+				"Assets\\Scripts\\Game\\Enemy\\Enemy.cs"
+			],
+			[
+				"playerc",
+				"Assets\\Scripts\\Game\\Player\\Player.cs"
+			],
+			[
+				"towerbuild",
+				"Assets\\Scripts\\UI\\TowerBuildUI.cs"
+			],
+			[
+				"guimana",
+				"Assets\\Scripts\\UI\\GuiManager.cs"
+			],
+			[
+				"assetmap",
+				"Assets\\Resources\\AssetMap_default.json"
+			],
+			[
+				"debugui",
+				"Assets\\Scripts\\UI\\DebugUI.cs"
+			],
+			[
+				"colle",
+				"Assets\\Scripts\\System\\DataTypes\\TowerDataCollection.cs"
+			],
+			[
+				"inspe",
+				"Assets\\Scripts\\UI\\Inspector.cs"
+			],
+			[
+				"utili",
+				"Assets\\Scripts\\Utility\\Utility.cs"
+			],
+			[
+				"towerda",
+				"Assets\\Scripts\\System\\DataTypes\\TowerData.cs"
+			],
+			[
+				"guielem",
+				"Assets\\Scripts\\UI\\GuiElement.cs"
+			],
+			[
+				"TowerDetails",
+				"Assets\\Scripts\\UI\\TowerDetails.cs"
+			],
+			[
+				"towerbui",
+				"Assets\\Scripts\\UI\\TowerBuildUI.cs"
+			],
+			[
+				"playercs",
+				"Assets\\Scripts\\Game\\Player\\Player.cs"
+			],
+			[
+				"sing",
+				"Assets\\Scripts\\Utility\\Singleton.cs"
+			],
+			[
+				"bombor",
+				"Assets\\Scripts\\Game\\Item\\BombOrb.cs"
+			],
+			[
+				"towerbomcs",
+				"Assets\\Scripts\\Game\\Tower\\BombTower.cs"
+			],
+			[
+				"holda",
+				"Assets\\Scripts\\Game\\Item\\HoldableItem.cs"
+			],
+			[
+				"hola",
+				"Assets\\Scripts\\Game\\Item\\HoldableItem.cs"
+			],
+			[
+				"disturbanca",
+				"Assets\\Scripts\\Game\\Generic\\DisturbanceCamera.cs"
+			],
+			[
+				"disturbancame.cs",
+				"Assets\\Scripts\\Game\\Generic\\DisturbanceCamera.cs"
+			],
+			[
+				"transform",
+				"Assets\\Scripts\\Utility\\TransformList.cs"
+			],
+			[
+				"trans",
+				"Assets\\Scripts\\Utility\\TransformList.cs"
+			],
+			[
+				"tran",
+				"Assets\\Scripts\\Utility\\TransformList.cs"
+			],
+			[
+				"distfa",
+				"Assets\\Scripts\\Game\\Generic\\DisturbanceFader.cs"
+			],
+			[
+				"initi",
+				"Assets\\Scripts\\System\\ApplicationInitialize.cs"
+			],
+			[
+				"assetmanase",
+				"Assets\\Scripts\\System\\AssetManagerSettings.cs"
+			],
+			[
+				"stagege",
+				"Assets\\Scripts\\Game\\Stage\\StageGenerator.cs"
+			],
+			[
+				"assetbundleman",
+				"Assets\\Scripts\\Editor\\AssetBundleManager\\AssetBundleManager.cs"
+			],
+			[
+				"assetbundle",
+				"Assets\\Scripts\\Editor\\AssetBundleManager\\AssetBundleManagerWindow.cs"
+			],
+			[
+				"assetma",
+				"Assets\\Scripts\\System\\AssetManager.cs"
+			],
+			[
+				"assetbundlem",
+				"Assets\\Scripts\\Editor\\AssetBundleManager\\AssetBundleManagerWindow.cs"
+			],
+			[
+				"move",
+				"Assets\\Scripts\\Game\\Generic\\PathGuideMover.cs"
+			],
+			[
+				"simpl",
+				"Assets\\Scripts\\Game\\Tower\\SimpleProjectile.cs"
+			],
+			[
+				"expl",
+				"Assets\\Scripts\\Game\\Generic\\Explosion.cs"
+			],
+			[
+				"enemycs",
+				"Assets\\Scripts\\Game\\Enemy\\Enemy.cs"
+			],
+			[
+				"senso",
+				"Assets\\Scripts\\Game\\Generic\\Sensor.cs"
+			],
+			[
+				"test",
+				"Assets\\StreamingAssets\\StageData\\test.json"
+			],
+			[
+				"test.",
+				"Assets\\StreamingAssets\\StageData\\test.json"
+			],
+			[
+				"tower.pre",
+				"Assets\\Data\\Tower\\Tower.prefab"
+			],
+			[
+				"stagelo",
+				"Assets\\Scripts\\Game\\Stage\\StageLoader.cs"
+			],
+			[
+				"stageda",
+				"Assets\\Scripts\\StageDesigner\\StageData.cs"
+			],
+			[
+				"stageDa",
+				"Assets\\Scripts\\StageDesigner\\StageData.cs"
+			],
+			[
+				"stageD",
+				"Assets\\StageDataLoader.cs"
+			],
+			[
+				"tes",
+				"Assets\\StreamingAssets\\StageData\\test.json"
+			],
+			[
+				"stagede",
+				"Assets\\Scripts\\StageDesigner\\StageDesigner.cs"
+			],
+			[
+				"json",
+				"Assets\\StreamingAssets\\StageData\\test.json"
+			],
+			[
+				"wave",
+				"Assets\\Scripts\\Game\\Stage\\Wave.cs"
+			],
+			[
+				"root",
+				"Assets\\Scripts\\Game\\Generic\\AssetRoot.cs"
+			],
+			[
+				"wavem",
+				"Assets\\Scripts\\Game\\Stage\\WaveManager.cs"
+			],
+			[
+				"datal",
+				"Assets\\StageDataLoader.cs"
+			],
+			[
+				"ser",
+				"Assets\\Scripts\\System\\SerializableAsset.cs"
+			],
+			[
+				"asset",
+				"Assets\\Scripts\\Game\\Generic\\AssetRoot.cs"
+			],
+			[
+				"pathcs",
+				"Assets\\Scripts\\Game\\Generic\\Path.cs"
+			],
+			[
+				"path.cs",
+				"Assets\\Scripts\\Game\\Generic\\Path.cs"
+			],
+			[
+				"tr",
+				"Assets\\Scripts\\Game\\Generic\\TransformRoot.cs"
+			],
+			[
+				"wavemana",
+				"Assets\\Scripts\\Game\\Stage\\WaveManager.cs"
+			],
+			[
+				"local",
+				"Assets\\Scripts\\System\\Localization.cs"
+			],
+			[
+				"roo",
+				"Assets\\Scripts\\Game\\Generic\\TransformRoot.cs"
+			],
+			[
+				"assetm",
+				"Assets\\Scripts\\System\\AssetManager.cs"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"E:\\Repos\\AssetManager\\AssetManager.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 154.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
