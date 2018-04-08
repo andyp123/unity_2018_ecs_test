@@ -19,18 +19,15 @@ namespace DanmakuExample
 
         protected override void OnUpdate ()
         {
+            DanmakuSettings settings = DanmakuMain.Settings;
             float dt = Time.deltaTime;
-
-            // settings
-            float moveSpeed = 5f;
-            // float fireCooldown = 0.125f;
 
             for (int i = 0; i < data.Length; ++i)
             {
                 var position = data.Position[i].Value;
                 var playerInput = data.Input[i];
 
-                position += playerInput.Move * moveSpeed * dt;
+                position += playerInput.Move * settings.playerMaxSpeed * dt;
 
                 // if (playerInput.Fire)
                 // {
