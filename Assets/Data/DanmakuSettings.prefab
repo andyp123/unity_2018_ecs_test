@@ -51,6 +51,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b2d85b8f7e2648d49b8cf44b852fd3e5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playerMaxSpeed: 15
-  playerShotDelay: 0.125
   playerMaxHealth: 100
+  playerMaxSpeed: 15
+  playerFireCooldown: 0.125
+  playerShotLifetime: 5
+  playerShotSpeed: 20
+  playerShotDamage: 10
+  playerSize: 1
+  enemyMaxHealth: 30
+  enemyMaxSpeed: 5
+  enemyFireCooldown: 0.5
+  enemyShotLifetime: 5
+  enemyShotSpeed: 10
+  enemyShotDamage: 10
+  enemySize: 1

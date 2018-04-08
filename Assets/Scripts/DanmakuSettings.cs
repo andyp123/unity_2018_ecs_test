@@ -11,6 +11,7 @@ namespace DanmakuExample
         public float playerShotLifetime = 5f;
         public float playerShotSpeed = 20f;
         public int playerShotDamage = 10;
+        public float playerSize = 1f;
 
         [Header("Enemy")]
         public int enemyMaxHealth = 100;
@@ -19,6 +20,7 @@ namespace DanmakuExample
         public float enemyShotLifetime = 5f;
         public float enemyShotSpeed = 10f;
         public int enemyShotDamage = 10;
+        public float enemySize = 1f;
 
         void Start ()
         {
