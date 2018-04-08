@@ -14,6 +14,14 @@ namespace DanmakuExample
     public struct Dead : IComponentData {}
 
     // Data components
+    public struct PlayerInput : IComponentData
+    {
+        public float2 Move;
+        // public bool Shoot;
+        // public bool Fire;
+        // public float FireCooldown;
+    }
+    
     public struct Health : IComponentData
     {
         public int Value;

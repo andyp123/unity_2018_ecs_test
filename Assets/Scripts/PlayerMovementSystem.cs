@@ -23,7 +23,7 @@ namespace DanmakuExample
 
             // settings
             float moveSpeed = 5f;
-            float fireCooldown = 0.125f;
+            // float fireCooldown = 0.125f;
 
             for (int i = 0; i < data.Length; ++i)
             {
@@ -32,10 +32,10 @@ namespace DanmakuExample
 
                 position += playerInput.Move * moveSpeed * dt;
 
-                if (playerInput.Fire)
-                {
-                    playerInput.FireCooldown = fireCooldown;
-                }
+                // if (playerInput.Fire)
+                // {
+                //     playerInput.FireCooldown = fireCooldown;
+                // }
 
                 data.Position[i] = new Position2D { Value = position };
                 data.Input[i] = playerInput;
