@@ -64,4 +64,11 @@ MonoBehaviour:
   enemyShotLifetime: 5
   enemyShotSpeed: 10
   enemyShotDamage: 10
-  enemySize: 1
+  enemySize: 2
+  enemySpawnCooldown: 0.5
+  playfield:
+    serializedVersion: 2
+    x: -30
+    y: -30
+    width: 60
+    height: 60

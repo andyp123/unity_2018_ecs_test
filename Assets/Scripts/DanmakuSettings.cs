@@ -22,6 +22,12 @@ namespace DanmakuExample
         public int enemyShotDamage = 10;
         public float enemySize = 1f;
 
+        [Header("Spawning")]
+        public float enemySpawnCooldown = 0.5f;
+        public Rect playfield = new Rect { x = -30f, y = -30f, width = 60f, height = 60f };
+
+        // This is here just because settings needs to be in the scene, so it
+        // is an easy place to call NewGame from.
         void Start ()
         {
             DanmakuMain.NewGame();

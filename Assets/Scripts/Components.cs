@@ -54,4 +54,20 @@ namespace DanmakuExample
         public Heading2D Heading;
         public int Faction; 
     }
+
+    public struct EnemyShootState : IComponentData
+    {
+        public float Cooldown;
+    }
+
+    public struct EnemySpawnCooldown : IComponentData
+    {
+        public float Value;
+    }
+
+    public struct EnemySpawnSystemState : IComponentData
+    {
+        public int SpawnedEnemyCount;
+        public Random.State RandomState;
+    }
 }

@@ -48,8 +48,11 @@ namespace DanmakuExample
                 ComponentType.Create<Enemy>(),
                 ComponentType.Create<Position2D>(),
                 ComponentType.Create<Heading2D>(),
+                ComponentType.Create<EnemyShootState>(),
                 ComponentType.Create<Health>(),
-                ComponentType.Create<TransformMatrix>()
+                ComponentType.Create<TransformMatrix>(),
+                ComponentType.Create<MoveSpeed>(),
+                ComponentType.Create<MoveForward>()
                 );
 
             ShotSpawnArchetype = entityManager.CreateArchetype(
@@ -92,6 +95,8 @@ namespace DanmakuExample
             PlayerShotRenderer = GetRendererFromPrototype("PrototypePlayerShot");
             EnemyRenderer = GetRendererFromPrototype("PrototypeEnemy");
             EnemyShotRenderer = GetRendererFromPrototype("PrototypeEnemyShot");
+
+            EnemySpawnSystem.SetupComponentData(World.Active.GetOrCreateManager<EntityManager>());
 
         }
 
