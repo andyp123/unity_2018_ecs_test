@@ -5,9 +5,20 @@ namespace DanmakuExample
     public class DanmakuSettings : MonoBehaviour
     {
         [Header("Player")]
-        public float playerMaxSpeed = 10f;
-        public float playerShotDelay = 0.125f;
         public int playerMaxHealth = 100;
+        public float playerMaxSpeed = 10f;
+        public float playerFireCooldown = 0.125f;
+        public float playerShotLifetime = 5f;
+        public float playerShotSpeed = 20f;
+        public int playerShotDamage = 10;
+
+        [Header("Enemy")]
+        public int enemyMaxHealth = 100;
+        public float enemyMaxSpeed = 5f;
+        public float enemyFireCooldown = 0.5f;
+        public float enemyShotLifetime = 5f;
+        public float enemyShotSpeed = 10f;
+        public int enemyShotDamage = 10;
 
         void Start ()
         {

@@ -14,6 +14,7 @@ namespace DanmakuExample
         // Archetypes
         public static EntityArchetype PlayerArchetype;
         public static EntityArchetype EnemyArchetype;
+        public static EntityArchetype ShotSpawnArchetype;
 
         // Renderers
         public static MeshInstanceRenderer PlayerRenderer;
@@ -50,6 +51,9 @@ namespace DanmakuExample
                 ComponentType.Create<Health>(),
                 ComponentType.Create<TransformMatrix>()
                 );
+
+            ShotSpawnArchetype = entityManager.CreateArchetype(
+                ComponentType.Create<ShotSpawnData>());
         }
 
         public static void NewGame ()

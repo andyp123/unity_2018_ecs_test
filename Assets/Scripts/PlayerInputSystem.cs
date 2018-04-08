@@ -31,15 +31,13 @@ namespace DanmakuExample
 
             playerInput.Move.x = Input.GetAxis("Horizontal");
             playerInput.Move.y = Input.GetAxis("Vertical");
-            // playerInput.Shoot = Input.GetButton("Fire1");
+            if (math.length(playerInput.Move) > 1f)
+            {
+                playerInput.Move = math.normalize(playerInput.Move);
+            }
 
-            // if (math.length(playerInput.Move) > 1f)
-            // {
-            //     playerInput.Move = math.normalize(playerInput.Move);
-            // }
-
-            // playerInput.FireCooldown = Mathf.Max(0f, players.Input[i].FireCooldown - dt);
-            // playerInput.Fire = playerInput.Shoot && playerInput.FireCooldown <= 0;
+            playerInput.Shoot = Input.GetButton("Fire1") ? 1 : 0;
+            playerInput.FireCooldown = Mathf.Max(0f, players.Input[i].FireCooldown - dt);
 
             players.Input[i] = playerInput;
         }

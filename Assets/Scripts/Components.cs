@@ -6,6 +6,13 @@ using Unity.Transforms2D;
 
 namespace DanmakuExample
 {
+    // Enum style struts
+    public struct Factions
+    {
+        public const int Player = 0;
+        public const int Enemy = 1;
+    }
+
     // Tag components
     public struct Player : IComponentData {}
     public struct PlayerShot : IComponentData {}
@@ -17,9 +24,11 @@ namespace DanmakuExample
     public struct PlayerInput : IComponentData
     {
         public float2 Move;
-        // public bool Shoot;
-        // public bool Fire;
-        // public float FireCooldown;
+        public int Shoot;
+        public float FireCooldown;
+
+        // Can't have bool as value, or a function, so use delegate...
+        public bool Fire => Shoot == 1 && FireCooldown <= 0f;
     }
     
     public struct Health : IComponentData
@@ -30,14 +39,19 @@ namespace DanmakuExample
     public struct Damaged : IComponentData
     {
         public int Damage;
-        public Position2D ImpactPosition;
     }
 
     public struct Shot : IComponentData
     {
         public int Damage;
+        public float Lifetime;
+    }
+
+    public struct ShotSpawnData : IComponentData
+    {
+        public Shot Shot;
         public Position2D Position;
         public Heading2D Heading;
-        public float ExpiryTime;
+        public int Faction; 
     }
 }
